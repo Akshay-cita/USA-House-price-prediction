@@ -9,3 +9,9 @@ Here we are solving a regression problem that is USA house price prediction usin
 * 'Area Population': Population of city hou se is located in
 * 'Price': Price that the house sold at
 * 'Address': Address for the house
+## Libraries
+* Pandas 
+* Numpy
+* Matplotlib
+* Seaborn
+* sklearn
